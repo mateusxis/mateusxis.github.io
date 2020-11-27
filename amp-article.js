@@ -1,5 +1,5 @@
-var path = document.location.pathname.replace("/noticias/", "");
 console.log(document.location);
+var path = document.location.pathname.replace("/noticias/", "");
 var url = `https://b2b.ingresso.dev/api/v1/articles/${path}?api_key=dxupCeaaEKPMPUjcnWSmMiaT`;
 
 fetch(url).then(function (resolve) {
