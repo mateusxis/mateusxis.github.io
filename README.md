@@ -2,7 +2,7 @@
 
 I'm Mateus Barbosa, and I'm a Software Engineer at Hurb and I've been working in tech since 2017. I'm currently living in beautiful city Rio de Janeiro.
 
-[![Linkedin: mateus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/mateus-barbosa-28208410a/)
+[![Linkedin: mateus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-barbosa-28208410a/)](https://www.linkedin.com/in/mateus-barbosa-28208410a/)
 
 ## ⚡ Technologies
 
